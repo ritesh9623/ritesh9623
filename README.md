@@ -42,12 +42,26 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Project
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🐍 **[python-practice](https://github.com/ritesh9623)** | Beginner-to-intermediate Python practice problems and solutions | `Python` `Logic` |
-| 🎨 **[interactive-navbar](https://github.com/ritesh9623)** | A responsive navbar that reacts dynamically as you scroll | `HTML` `CSS` `JS` |
+### 🐍 Python Mastery Repository
+
+A complete Python learning repository designed to help beginners and aspiring developers master Python.
+
+✨ **What's inside?**
+
+- 📘 500+ Python practice questions
+- 📝 Topic-wise notes with explanations
+- 🧠 Logic-building & problem-solving exercises
+- 🏗 Object-Oriented Programming (OOP)
+- 📂 File Handling & Exception Handling
+- 🎯 Interview preparation questions
+- 💡 Beginner to Advanced examples
+- 🚀 Regularly updated with new content
+
+**Tech Stack:** `Python` • `OOP` • `DSA` • `Problem Solving`
+
+🔗 **Repository:** `https://github.com/ritesh9623/your-repo-name`
 
 ---
 
