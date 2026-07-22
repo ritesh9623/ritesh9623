@@ -1,1 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ritesh Girhe</h1> <h3 align="center"> 🚀 Python Developer | Aspiring Data Analyst & Data Scientist | Turning Data into Insights </h3> <p align="center"> Passionate about solving real-world problems with Python, SQL, and Data Analytics. </p> <p align="center"> <img src="https://img.shields.io/badge/Python-Expertise-blue?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/SQL-Data%20Analysis-success?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/Excel-Analytics-green?style=for-the-badge&logo=microsoft-excel" /> <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-orange?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=ritesh9623&style=for-the-badge&color=blueviolet" /> </p> --- # 👨‍💻 About Me 🔹 Aspiring **Data Analyst** and **Data Scientist** passionate about extracting meaningful insights from data. 🔹 Strong foundation in **Python, SQL, Excel, OOP, and Problem Solving.** 🔹 Consistently improving analytical thinking through coding challenges and real-world projects. 🔹 Interested in **Data Analytics, Machine Learning, Business Intelligence, and Automation.** 🔹 Building projects that combine programming with practical business problems. 🔹 Currently focused on: - Python Programming - SQL & Database Management - Excel for Data Analysis - Data Visualization - Data Science Fundamentals 📫 **Let's Connect** - LinkedIn: **(Add Your LinkedIn)** - Email: **(Add Your Email)** --- # 🛠 Tech Stack ### Programming <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge"/> </p> ### Data Analytics <p> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Problem%20Solving-orange?style=for-the-badge"/> </p> ### Web Basics <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p> --- # 🚀 Featured Projects | Project | Description | |---------|-------------| | 🐍 Python Practice | Collection of Python programs covering fundamentals, OOP, file handling, exception handling, and problem solving. | | 📊 SQL Practice | SQL queries, joins, subqueries, aggregate functions, and database practice. | | 📈 Excel Dashboard *(Coming Soon)* | Interactive dashboard for sales and business analysis. | | 🌐 Interactive Navbar | Responsive navigation bar with dynamic scroll effects. | --- # 📈 GitHub Statistics <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ritesh9623&show_icons=true&theme=radical"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh9623&theme=radical"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh9623&layout=compact&theme=radical"/> </p> --- # 🎯 Current Goals ✅ Master Python ✅ Become Advanced in SQL ✅ Build Data Analytics Projects ✅ Learn Machine Learning ✅ Secure a Data Analyst Internship ✅ Grow into a Data Scientist --- # 💡 Quote > **"Every dataset tells a story. My goal is to discover it, understand it, and transform it into valuable insights."** --- <p align="center"> ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. </p>
+<h1 align="center">Hi, I'm Ritesh Girhe 👋</h1>
+<h3 align="center">Turning ideas into code 💻</h3>
+
+<p align="center">
+  🚀 <b>Aspiring Data Analyst / Python Developer</b> &nbsp;|&nbsp; 📍 India
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20SQL%20%7C%20Excel-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ritesh9623&style=for-the-badge&color=blueviolet" />
+</p>
+
+---
+
+## 👤 About Me
+
+- 🐍 **Learning & Building:** Crafting solutions with Python, SQL, and Excel
+- 📊 **Data Enthusiast:** Focused on Data Analysis — turning raw data into actionable insights
+- 🌱 **Growth Mindset:** Practicing daily problem-solving and sharpening core concepts
+- 🛠️ **Web Tech:** Exploring front-end fundamentals (HTML/CSS) to build full-stack interfaces
+- 🤝 **Opportunities:** Open to learning, collaboration, and internship/entry-level roles
+- 📫 **Let's Connect:** Feel free to reach out on LinkedIn!
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-14151a?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-SQL-14151a?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/-Excel-14151a?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/-Pandas-14151a?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/-NumPy-14151a?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-14151a?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/-HTML5-14151a?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/-CSS3-14151a?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-Git-14151a?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/-VS_Code-14151a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-Jupyter-14151a?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🐍 **[python-practice](https://github.com/ritesh9623)** | Beginner-to-intermediate Python practice problems and solutions | `Python` `Logic` |
+| 🎨 **[interactive-navbar](https://github.com/ritesh9623)** | A responsive navbar that reacts dynamically as you scroll | `HTML` `CSS` `JS` |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritesh9623&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh9623&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh9623&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br />
+
+<p align="center"><i>"Always learning, always building — thanks for stopping by! 🙌"</i></p>
